@@ -3,7 +3,8 @@
  */
 public class LeetCodeTraining {
     public static void main(String[] args){
-        System.out.println(Valid_Parentheses.is_Valid("())("));
+        String[] strs = {"aa", "a"};
+        System.out.println(MySqrt.mySqrt(101));
 
     }
 }
