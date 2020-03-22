@@ -3,8 +3,7 @@
  */
 public class LeetCodeTraining {
     public static void main(String[] args){
-        String[] strs = {"aa", "a"};
-        System.out.println(MySqrt.mySqrt(101));
-
+        int[][] grid = {{4, 1}, {6, 1}};
+        System.out.println(Target.hasValidPath(grid));
     }
 }
